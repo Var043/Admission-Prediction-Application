@@ -1,0 +1,5 @@
+GRE: 200.0, GPA: 0.01, Rank: 1, Admission: Admitted
+GRE: 201.0, GPA: 0.14, Rank: 2, Admission: Admitted
+GRE: 800.0, GPA: 3.89, Rank: 2, Admission: Admitted
+GRE: 560.0, GPA: 3.49, Rank: 4, Admission: Admitted
+GRE: 560.0, GPA: 3.48, Rank: 4, Admission: Admitted
