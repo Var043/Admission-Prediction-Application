@@ -1,9 +1,8 @@
 # Admission-Prediction-Application
 
 
-Objective:
-    With the help of Logistic Regression we can determine 
-    whether a person can admit or not by given gre, gpa & rank.
+Objective:  To create a flask based application for using the Machine Learning Model to determine whether someone will get admitted or not given his input gre GPA and rank in a web page
+
 
 HERE WE HAVE:
 1. Refrence Data Files  (LR-1 for model making) and (LR-2 just another data for testing).
