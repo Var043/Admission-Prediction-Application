@@ -2,10 +2,6 @@
 
 *********** Logistic-Regression-ML ************
 
-
-
-here we have three parts:
-
 1. data file   (LR-1 for model making) and (LR-2 just another data for testing).
 2. flaskapp.py is our app that we deploying.
 3. model.py: here we have trained our data using Logistic Regression.
