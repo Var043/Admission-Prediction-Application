@@ -1,7 +1,7 @@
 # Admission-Prediction-Application
 
 
-Objective:  To create a flask based application for using the Machine Learning Model to determine whether someone will get admitted or not given his input gre GPA and rank in a web page
+Objective:  To create a flask based application for using the Machine Learning Model to determine whether someone will get admitted or not given his input Gre, GPA and Rank in a Web Page.
 
 
 HERE WE HAVE:
